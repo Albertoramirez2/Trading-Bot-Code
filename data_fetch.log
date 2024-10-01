@@ -1,0 +1,8 @@
+2024-08-25 22:42:29,657 INFO:Fetching data for AAPL from database.
+2024-08-25 22:42:29,681 INFO:Data for AAPL fetched successfully.
+2024-08-25 22:44:07,504 INFO:Loading data from ../data/AAPL_daily_data.parquet
+2024-08-25 22:44:07,518 INFO:Data for AAPL fetched successfully.
+2024-08-25 22:45:31,362 INFO:Loading data from ../data/AAPL_daily_data.parquet
+2024-08-25 22:45:31,380 ERROR:Error fetching data for AAPL: Cannot convert numpy.ndarray to numpy.ndarray
+2024-08-25 22:51:49,074 INFO:Loading data from ../data/AAPL_daily_data.parquet
+2024-08-25 22:51:49,086 ERROR:Error fetching data for AAPL: Cannot convert numpy.ndarray to numpy.ndarray
